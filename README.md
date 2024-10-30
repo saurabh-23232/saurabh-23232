@@ -3,13 +3,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saurabh-23232&label=Profile%20views&color=0e75b6&style=flat" alt="saurabh-23232" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=saurabh-23232" alt="saurabh-23232" /></a> </p>
+<img align="right" width="300" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsilZsiJOBXzO84v2c4JMLa0FOMk_E1EFbaYbEaTzKBlenesimtTkcZ2f7gB8q1KxnDA4&usqp=CAU"> 
 
 - 🌱 I’m currently learning **React, Improving hands on DSA, ML**
 
 - 👨‍💻 All of my projects are available at [<b> Here </b> ](https://github.com/saurabh-23232?tab=repositories)
 
 - 📫 How to reach me **saurabhkumar23232@gmail.com**
+
+
 
 # 📲 Connect with me:
 <p align="left">
@@ -22,6 +24,9 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=saurabh-23232&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=saurabh-23232&theme=dark&hide_border=false)<br/>
+
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=saurabh-23232" alt="saurabh-23232" /></a> </p>
 
 
 <h1 align="center"><b>✍️ Random Dev Quote</b></h1>
